@@ -90,19 +90,28 @@ body{
 
 .a{
     grid-column: 1/8;
-    grid-row: 1/4;
+    grid-row: 1/2;
+    text-align: center;
+    font-size: 50px;
+
 }
 .b{
     grid-column: 1/4;
     grid-row: 4/6;
+    background-image: url(../images/images.jpg);
+    background-size: 600px;
 }
 .c{
   grid-column:1/4 ;
   grid-row: 6/8;
+  background-image: url(../images/Screen_Shot_2019_04_23_at_3.02.03_PM.0.jpg);
+  background-size: 500px;
 }
 .d{
   grid-column: 1/4;
   grid-row: 8/10;
+  background-image: url(../images/sky-2362858_960_720.jpg);
+  background-size: 500px;
 }
 
 .e{
