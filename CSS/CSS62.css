@@ -97,21 +97,19 @@ body{
 }
 .b{
     grid-column: 1/4;
-    grid-row: 2/5;
-    background-image: url(../images/images.jpg);
-    background-size: 600px;
+    grid-row: 3/6;
+    text-align: center;
+    
 }
 .c{
   grid-column:1/4 ;
   grid-row: 5/7;
-  background-image: url(../images/Screen_Shot_2019_04_23_at_3.02.03_PM.0.jpg);
-  background-size: 500px;
+ 
 }
 .d{
   grid-column: 1/4;
   grid-row: 7/9;
-  background-image: url(../images/sky-2362858_960_720.jpg);
-  background-size: 500px;
+ 
 }
 
 .e{
